@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "What's New?"
+permalink:  "newnew"
+date:   2018-01-22 20:08:35 -0200
+categories: general
+---
+I almost forgot about blogging. *Queue Nostalgia*. It's been almost four (4!) years since I last posted. I was so ambitious, yet so naive. Maybe I still am? Probably.
+
+The reason I started a personal blog was because it was required <a href="https://twitter.com/fullstack" target="_blank">@Fullstack</a>. Or at least it was strongly encouraged. It was the Fall of 2013, just a few months after my high school graduation, and I was ~~nervous~~ frightened. I was (barely) 18 years old walking through the streets of New York pretending like I knew how to code. I hardly knew how to take the train much less how to program.
+
+It was all so magical to me--Languages, frameworks, CLIs--never before had I approached problem solving or thinking quite like that. I had to think like the computer and solve problems that I couldn't touch or see. The concept was foreign to me and incredibly frustrating. And honestly, it still is at times, but I'm so much better at it.
+
+I graduate with my BSCS in May from <a href="https://twitter.com/umkansascity" target="_blank">UMKC</a> and I'm excited. The past three years in CS theory classes have been great and I've done pretty well, but I'm itching to be in the **real world** full time. I have a feeling that in a few years I'm going to be reminiscing on how great undergrad was, wishing I could go back. But I guess it's all about context.
+
+For the last year or so I've been interning at a company in downtown Kansas City called <a href="https://www.dstsystems.com" target="_blank">DST</a>. The experience has been awesome and I'm so grateful. I've learned so much from my team and mentor, <a href="https://github.com/tmburnell" target="_blank">Tim</a>.
+
+Here are some cool things I've done in the last few months:
+* <a href="http://www.kansascity.com/news/local/article190101884.html" target="_blank">UMKC's new building announcement</a>
+* <a href="https://github.com/istevenson/remindme-ionic" target="_blank">Simple to do list app</a> in <a href="https://ionicframework.com/" target="_blank">Ionic</a>
+* This new blog!

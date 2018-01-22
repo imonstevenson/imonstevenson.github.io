@@ -17,30 +17,30 @@ markdown    : kramdown
 highlighter : pygments
 
 # SEO settings
-title: dotX
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: imon stevenson
+description: "Software developer"
+keywords: "imon stevenson, imon developer"
 
 # Site settings
-url: http://nandomoreira.me
-baseurl: "/dotX"
+url: http://imon.codes
+baseurl: ""
+future: true
 # baseurl: ""
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name      : Imon Stevenson
+  job       : Frontend Developer
+  bio       : "High performing, highly compassionate, loves a good stand up desk."
   thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  email     : hi@imon.codes
+  url       : http://imon.codes
+  github    : http://github.com/istevenson
+  twitter   : http://twitter.com/imonstevenson
+  linkedin  : http://linkedin.com/in/imonstevenson
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/dotX
+repo: http://github.com/imonstevenson/imonstevenson.github.io
 
 # comments
-disqus_shortname: "fernandomoreira"
+disqus_shortname: ""
