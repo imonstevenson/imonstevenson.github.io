@@ -2,6 +2,152 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ce5559f-f122-4cc5-a86c-a45d709ebad1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/comments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/icon-github.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/icon-twitter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/social.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/blank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/compress.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/2018-01-22-whats-new.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_globals.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_grid-settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_intro.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_lists.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_post.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_syntax-highlighting.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/base/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/_bourbon-deprecated-upcoming.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/_bourbon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_border-color.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_border-style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_border-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_ellipsis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_font-stacks.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_hide-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_margin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_padding.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_position.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_prefixer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_retina-image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_text-inputs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_timing-functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_triangle.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/addons/_word-wrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_animation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_appearance.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_backface-visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_background-image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_border-image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_calc.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_columns.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_filter.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_flex-box.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_font-face.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_font-feature-settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_hidpi-media-query.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_hyphens.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_image-rendering.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_keyframes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_linear-gradient.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_perspective.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_placeholder.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_radial-gradient.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_selection.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_text-decoration.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_transform.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_transition.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/css3/_user-select.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_assign-inputs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_contains-falsy.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_contains.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_is-length.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_is-light.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_is-number.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_is-size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_modular-scale.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_px-to-em.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_px-to-rem.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_shade.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_strip-units.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_tint.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_transition-property-name.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/functions/_unpack.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_convert-units.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_directional-values.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_font-source-declaration.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_gradient-positions-parser.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_linear-angle-parser.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_linear-gradient-parser.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_linear-positions-parser.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_linear-side-corner-parser.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_radial-arg-parser.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_radial-gradient-parser.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_radial-positions-parser.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_render-gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_shape-size-stripper.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/helpers/_str-to-num.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/settings/_asset-pipeline.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/settings/_prefixer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/bourbon/settings/_px-to-em.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_sass/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/css/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Light-42c399da47c6ef57a69bdc43c142d9e0.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Light-42c399da47c6ef57a69bdc43c142d9e0.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Light-4b06d3a529c9c826d74f5ec127e6794b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Light-6e657e723c01367670cbefca2d8a24a1.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Light-c7361c70f999f4ecb48bde9982a2fc8e.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Regular-5d6460d44f97092b29090dce3334e943.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Regular-8da92e56f55db5989384d7de4bfe67fe.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Regular-afb24dc1729319aa4312beb156e322b4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Regular-c451d7b3d80f69412df81a1a3a7352f7.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Regular-c451d7b3d80f69412df81a1a3a7352f7.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-RegularIt-3bc258b118e61c4e094363ed9032e8f7.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-RegularIt-71749f77d5fcc0289ff0321ead78be00.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-RegularIt-71749f77d5fcc0289ff0321ead78be00.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-RegularIt-eba90fe199cf3fa3999189e25d691cba.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-RegularIt-f40efaf943299639efae56f0db6d0fa8.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Semibold-34c88b3bc9fce5aa4e9b328edf5716e0.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Semibold-523b93c5938637c5dfdcbde51c0ea43d.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Semibold-523b93c5938637c5dfdcbde51c0ea43d.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Semibold-59ec19cde74dec0b7a1ea46ce775811b.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/ProximaNova-Semibold-6d67e36a9e19cc4fe60195bddc332634.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/dotx-icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/dotx-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/dotx-icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/fonts/dotx-icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/IMG_8181.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/images/IMG_8216.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/js/jquery-2.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/js/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/feed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,61 +162,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/blog/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2965" lean-forward="false" selection-start-line="0" selection-start-column="2965" selection-end-line="0" selection-end-column="2965" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_includes/navbar.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-22-whats-new.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/2018-01-22-whats-new.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="0" column="1586" lean-forward="false" selection-start-line="0" selection-start-column="1586" selection-end-line="0" selection-end-column="1586" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+              <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,6 +189,8 @@
       <find>github</find>
       <find>navbar</find>
       <find>istev</find>
+      <find>i</find>
+      <find>{%</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,12 +206,12 @@
         <option value="$PROJECT_DIR$/source/_posts/2018-12-22-welcome-home.markdown" />
         <option value="$PROJECT_DIR$/source/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/source/about.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_site/blog/index.html" />
         <option value="$PROJECT_DIR$/source/_includes/navbar.html" />
         <option value="$PROJECT_DIR$/source/_posts/2018-01-22-whats-new.markdown" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -144,35 +252,6 @@
               <item name="dotX" type="b2602c69:ProjectViewProjectNode" />
               <item name="dotX" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="dotX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dotX" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dotX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dotX" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dotX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dotX" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dotX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dotX" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dotX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dotX" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -210,12 +289,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516313709010</updated>
       <workItem from="1516313711045" duration="776000" />
-      <workItem from="1516653126627" duration="3806000" />
+      <workItem from="1516653126627" duration="4377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4582000" />
+    <option name="totallyTimeSpent" value="5153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="364" width="1680" height="681" extended-state="0" />
@@ -361,14 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -449,10 +520,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="59" lean-forward="false" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
