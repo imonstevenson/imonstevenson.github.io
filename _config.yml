@@ -30,7 +30,7 @@ future: true
 # Author settings
 author:
   name      : Imon Stevenson
-  job       : Frontend Developer
+  job       : Front End Developer
   bio       : "High performing, highly compassionate, loves a good stand up desk."
   thumb     : /images/author.jpg
   email     : hi@imon.codes
