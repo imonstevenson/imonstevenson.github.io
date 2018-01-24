@@ -21,8 +21,8 @@ description: "Software developer"
 keywords: "imon stevenson, imon developer"
 
 # Site settings
-url: imon.codes
-baseurl: ""
+url: http://imon.codes
+baseurl: "/"
 future: true
 # baseurl: ""
 
